@@ -24,3 +24,8 @@ export const Single = props => {
 Single.propTypes = {
 	match: PropTypes.object
 };
+
+
+Single.propTypes = {
+	match: PropTypes.object
+};
